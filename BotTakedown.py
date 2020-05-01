@@ -53,7 +53,7 @@ elif confirmation != 'y':
 # NOTE: If you wish to add your own custom text, create a text file in the "packages" folder
 #       and add an entry to the list in the format shown below
 packages = [
-    {'name': 'The Entire Bee Movie Script', 'abr_name': 'Bee Movie Script', 'file_name': 'Bee_Movie.txt'}
+    {'name': 'The Entire Bee Movie Script', 'abr_name': 'Bee Movie Script', 'file_name': 'Bee_Movie.txt'},
     {'name': 'The Entire Shrek Script', 'abr_name': 'Shrek Script', 'file_name': 'Shrek.txt'}
 ]
 
